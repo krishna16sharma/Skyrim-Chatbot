@@ -1,0 +1,4 @@
+nltk
+tflearn
+tensorflow
+discord
