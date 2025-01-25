@@ -6,6 +6,13 @@ A discord chatbot built using NLTK and Tensorflow featuring one of the most fami
 ![Demo1](https://user-images.githubusercontent.com/59202185/197256690-9183f8ad-c3d2-4f89-a0f3-0bb35b29943c.gif)
 ![Demo2](https://user-images.githubusercontent.com/59202185/197256790-23bca9d3-dee7-4b3a-b6c6-8fe7c5882e31.gif)
 
+## Dataset
+The guard dialogues were scrapped from The Unoffical Elder Scroll Pages and a [csv](dataset\guard_dialogues.csv) file was created.
+
+This, in turn, helped me manually create the [intents.json](intents.json) file.
+
+Using Bag Of Words Representation, we preprocess the JSON and create the [pickle](data.pickle) file which helps to train our model. You may directly use this for training or prediction.
+
 ## How to run
 1.  Clone the repo
 2.  Install the requirements with the command `pip install requirements.txt`

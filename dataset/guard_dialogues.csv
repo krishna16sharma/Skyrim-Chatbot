@@ -1,0 +1,347 @@
+Dialogue,Requirement
+"""I used to be an adventurer like you. Then I took an arrow in the knee...""",None
+"""Let me guess... someone stole your sweetroll.""",None
+"""Citizen.""",Imperial Guard
+"""Disrespect the law, and you disrespect me.""",None
+"""What do you need?""",None
+"""Trouble?""",None
+"""What is it?""",None
+"""No lollygaggin'.""",None
+"""My cousin's out fighting dragons, and what do I get? Guard duty.""",None
+"""Gotta keep my eyes open. Damn dragons could swoop down at any time.""",None
+"""Fear not. Come dragon or giant, we'll be ready.""",None
+"""They say Helgen got hit by a dragon. One of those horrors comes here, we'll be ready.""",None
+"""Brigands I can handle, but this talk of dragons? World's gone mad, I say.""",None
+"""Everything's in order.""",None
+"""Staying safe I hope.""",None
+"""Everything all right?""",None
+"""Helgen... destroyed by a dragon. Hard to believe, isn't it?""",None
+"""Could sure use a warm bed right about now...""",None
+"""I'd be a lot warmer and a lot happier with a bellyful of mead...""",None
+"""I mostly deal with petty thievery and drunken brawls. Been too long since we've had a good bandit raid.""",None
+"""What is it? Dragons?""",None
+"""Watch the skies, traveler.""",None
+"""They say Ulfric Stormcloak murdered the High King... with his voice! Shouted him apart!""",None
+"""No matter what else happens, the guards will always be grateful for everything you've done.""",Complete the Main Quest
+"""Yes, Dovahkiin? How can I help you?""",Complete the Main Quest.
+"""Whatever you need, Dragonborn. Just say the word.""",Complete Dragon Rising and use your shout.
+"""I fear the night. Because the werewolves and vampires don't.""",Nighttime
+"""Bit late to be wandering around, isn't it?""",Nighttime
+"""Only burglars and vampires creep around after dark. So which are you?""",Nighttime
+"""You hear that? I swear, there's something out there. In the dark.""",Nighttime
+"""I hope you're finding the city in proper order, thane.""",Be thane of the hold
+"""I trust the day's found you well, thane.""",Be thane of the hold
+"""How do you do, thane?""",Be thane of the hold
+"""Just a few more hours and I can crawl under some furs...""",Between the hours of 11 pm and 4 am
+"""Jarl's been looking for someone who ain't superstitious though. Be lookin' for a fool if you ask me.""",Morthal Guards when asked about the burned house
+"""It's bad luck to talk about that place.""",Morthal Guards when asked about the burned house
+"""You should talk to the Jarl up in Dragonsreach, lend any aid you can.""",Guards in Whiterun have this dialogue before Bleak Falls Barrow is completed.
+"""Stormcloaks, Imperials, dragons. Ain't no matter to me what I kill. Let them come.""",Whiterun guards before and after Battle for Whiterun (Sided with the Legion).
+"""Guard might get nervous, a man/woman approaches with his/her weapon drawn...""",Approached by the player with weapons drawn.
+"""Sheathe those claws, Khajiit.""","Approached by the player with fists raised.
+
+Player is a Khajiit"
+"""You come up to me, fists raised? You looking for a beating?""",Approached by the player with fists raised.
+"""Whoa, whoa, whoa! Watch the magic!""",Player casts a spell in the guard's presence.
+"""Go cast your fancy magic someplace else.""",Approached by the player with magic spells ready.
+"""By all I hold sacred... that's a Shout! Like the Graybeards [sic] on their mountain!""",Player uses a non-aggressive dragon shout in front of a guard.
+"""By the Gods! What manner of power is that?"""
+"""It is the power of old! The Voice of the Dragonborn!"""
+"""The Thu'um! He/She summons the Thu'um!"""
+"""I need to ask you to stop. That... shouting... is making people nervous.""",May happen when the player uses any dragon shout in front of a guard.
+"""Well. I'll let it slide this time. But you'd be smart to take that off. Someone might get the wrong idea.""",Apologizes to Captain Aldis for wearing Stormcloak Armor.
+"""Hmm. I still don't like it, but I guess I'll overlook it. This time.""",Convinces guard to ignore crime.
+"""I find your wolfish grin... unsettling.""",Player is a Werewolf in human form
+"""Is that... fur? Coming out of your ears?""",Player is a Werewolf in human form
+"""Uch. Been tending your hounds? You smell like a wet dog.""",Player is a Werewolf in human form
+"""Werewolf!""",Player is a Werewolf in beast form
+"""It's a werewolf! To arms! To arms!""",Player is a Werewolf in beast form
+"""Vampire! Burn it!""",Afflicted with Vampirism in stage 4 without the Dawnguard add-on
+"""Vampire! To arms!""",Afflicted with Vampirism in stage 4 without the Dawnguard add-on
+"""Wait... I know you.""",Have a Bounty in that Hold
+"""Hey, you mix potions, right? Can you brew me an ale?""",Alchemy
+"""Fancy yourself an alchemist, hmm? Never could get the hang of that.""",Alchemy
+"""Keep your arrows in their quiver, archer.""",Archery*
+"""Favor the bow, eh? I'm a sword man, myself.""",Archery
+"""Hail, summoner. Conjure me up a warm bed, would you?""",Conjuration
+"""Destruction magic's fine, just don't go burning down any buildings.""",Destruction
+"""Don't suppose you'd enchant my sword? Dull old blade can barely cut butter.""",Enchanting
+"""Best offense is a good defense, am I right?""",Heavy Armor
+"""You're the one that casts those illusions. Impressive.""",Illusion
+"""Lightly armored means light on your feet. Smart.""",Light Armor
+"""Go fiddling with any locks around here, we're going to have a real problem.""",Lockpicking
+"""You're like me, eh? Don't fancy those clunky two-handed weapons.""",One-handed*
+"""I find your hand in my pocket, I'm going to cut it off.""",Pickpocket
+"""I know your kind, always sneaking about.""",Pickpocket
+"""I have a lot of respect for the Restoration School. Skyrim could use more healers.""",Restoration
+"""Hands to yourself, sneak thief.""",Sneak or Pickpocket
+"""Heard about you and your honeyed words...""",Speech
+"""Don't think you can barter with me like I'm one of those damned shopkeepers.""",Speech
+"""The gods gave you two hands, and you use them both for your weapon. I can respect that.""",Two-handed
+"""Helgen... destroyed by a dragon. Hard to believe, isn't it?""",Complete Unbound
+"""You have the Jarl's confidence, friend. And so you have mine.""","Complete Bleak Falls Barrow
+
+Have not reached Stage 90 of Dragon Rising
+Only Whiterun Guards have this dialogue"
+"""By the gods, it's true, isn't it? A dragon has attacked Whiterun. How could mere men bring down such a beast?""","Completed stage 90 of Dragon Rising, but not started Diplomatic Immunity
+
+Not a Whiterun guard"
+"""I have to wonder... what does the Dragonborn do once he's summoned by the Greybeards? Can the Thu'um be taught, like any skill?""",Complete Dragon Rising
+"""If those Whiterun guards can take down a dragon, so can we.""","Completed stage 90 of Dragon Rising, but not started Diplomatic Immunity
+
+Not a Whiterun guard"
+"""If we killed a dragon once, we can do it again. With your help of course.""","Complete Dragon Rising
+
+Only Whiterun Guards have this dialogue."
+"""Got to thinking... maybe I'm the Dragonborn, and I just don't know it yet?""",Complete Dragon Rising
+"""The Greybeards have summoned the Dragonborn to High Hrothgar. Such a thing has not happened for... hundreds of years.""",Complete Dragon Rising
+"""What could it mean? The return of the Dragonborn? And who among us could possibly hold that honor? And such power?""",Complete Dragon Rising
+"""By Ysmir, you did it. You killed a dragon.""","Complete Stage 90 of Dragon Rising
+
+Have not reached Stage 10 of Diplomatic Immunity
+Only Whiterun Guards have this dialogue."
+"""There's been talk amongst the guards. That you are... Dragonborn. But such a thing... Surely that's not possible...""","Complete Stage 110 of Dragon Rising
+
+Have not reached Stage 50 of The Fallen
+Only Windhelm Guards have this dialogue."
+"""You couldn't possibly be the Dragonborn of legend. Could you?""","Complete Stage 110 of Dragon Rising
+
+Have not reached Stage 50 of The Fallen
+Only Windhelm Guards have this dialogue."
+"""For a dragon to attack Kynesgrove... Why? Why there? Is no place safe?""",Complete A Blade in the Dark
+"""Have you heard? There's been another dragon attack. Kynesgrove, this time.""",Complete A Blade in the Dark
+"""If I'd been on guard at the Thalmor Embassy, wouldn't nobody be disturbing that party.""",Complete Diplomatic Immunity.
+"""Word is Elenwen's furious. Big party at the Thalmor Embassy, and one of the guests went someplace they shouldn't. Caused quite a commotion.""","Complete Diplomatic Immunity.
+
+Only Solitude Guards have this dialogue."
+"""Thalmor in the Ratway? What's next, Spriggans in the Bee and Barb?""",Complete A Cornered Rat
+"""There was a fight down in The Ratway, but reports are... sketchy. Some say it was Thalmor Agents, others say Thieves Guild. Some say it was both.""","Complete A Cornered Rat.
+
+Only Riften Guards have this dialogue."
+"""Looks like it's really happening. A peace council, attended by both Ulfric and Tullius, up on High Hrothgar. Maybe there's hope for Skyrim yet.""","Complete Stage 40, but not stage 300, of Season Unending"
+"""The Greybeards have called a peace council, at High Hrothgar. And can you believe it - both Ulfric Stormcloak and General Tullius have agreed to go.""","Complete Stage 40, but not stage 300, of Season Unending"
+"""This truce with the Stormcloaks won't last a fortnight. Bloody savages will kill us while we sleep.""","Complete Season Unending
+
+Only Imperials will say this dialogue."
+"""A truce? With the Imperials? They'll murder us all, first chance they get.""","Complete Season Unending
+
+Only Stormcloaks will say this dialogue."
+"""All hail the Dragonborn!""",Complete Season Unending
+"""The Greybeards have arranged a truce between the Stormcloaks and Imperials. How long can such a thing last?""",Complete Season Unending
+"""I caught a glimpse of that captured dragon. It's.. beautiful. In its own way.""",Complete The Fallen
+"""Is it true what they say? There was a dragon held captive in Whiterun, and you... you released it? By the gods, man/woman, why?""",Complete The Fallen
+"""It was you convinced the Jarl to trap that dragon in the keep. And by Ysmir, it actually worked.""",Complete The Fallen
+"""Releasing a captured dragon? I don't think I'll ever understand that one.""",Complete The Fallen
+"""Trapping a dragon in Dragonsreach. Damn clever idea you had, I have to admit.""",Complete The Fallen
+"""We had that beast contained. And you released it! Why? Why would you do such a thing?""",Complete The Fallen
+"""There's a dragon. Here. In Dragonsreach. And I thought it was just a name.""","Complete Stage 200 of The Fallen
+
+Have not reached Stage 50 of The World-Eater's Eyrie
+Only Whiterun Guards have this dialogue
+Guard is inside Dragonsreach"
+"""In the ancient tongue, you are Dovahkiin - Dragonborn!""",Complete Dragonslayer
+"""Word is spreading like magefire! The great evil has been vanquished! You have truly saved us all!""",Complete Dragonslayer
+"""You have vanquished a great evil from Skyrim. You have saved this land... and our very souls.""",Complete Dragonslayer
+"""What do you need, bard?""",Complete Tending the Flames
+"""Solitude wouldn't be the same without the Fire Festival. City owes you a debt of gratitude. ""","Complete Tending the Flames
+
+Only Solitude Guards have this dialogue."
+"""You're the one that saved the Fire Festival. I remember.""","Complete Tending the Flames.
+
+Only Solitude Guards have this dialogue."
+"""So you can cast a few spells? Am I supposed to be impressed?""",Complete First Lessons
+"""You're that one from the College. Heard about you.""",Complete First Lessons
+"""Some are saying the Psijic Monks have been seen in Skyrim. They're an ancient order. I had 'em figured for dead.""",Complete Under Saarthal
+"""The [sic] say the college has been snooping around Saarthal. Mages in a burial crypt? No good can come of that...""",Complete Under Saarthal
+"""One of the guards said he saw a mage appear out of thin air. Claimed it was one of those Psijic monks. Man's been hitting the skooma, I say.""",Complete Under Saarthal
+"""What business do college mages have in a place like Saarthal anyway? It's a place for Nord dead, not your weird experiments.""",Complete Good Intentions
+"""Imagine, blowing up an entire town. Damn college... Winterhold will never be the same.""",Complete Containment
+"""You hear the news? Those damn mages blew up Winterhold! Guess it was just a matter of time...""",Complete Containment
+"""Word is the College of Mages is back to normal. If there's such a thing for that lot.""",Complete The Eye of Magnus
+"""You're that mage from the college, right? Hear things have finally calmed down over there.""",Complete The Eye of Magnus
+"""Now I remember - you're that new member of the Companions. So you what - fetch the mead?""",Complete Take Up Arms
+"""Hail, Companion.""",Complete Take Up Arms
+"""You've been seen in the company of the Companions. That's an honorable path you're on, friend.""",Complete Take Up Arms
+"""Honored Companion. How can I assist you?""",Complete Take Up Arms
+"""I know of your deeds, and am honored to address a member of the Companions.""",Complete Proving Honor
+"""I'm telling you, I heard it. Howling. Those werewolf tales are true.""",Complete The Silver Hand
+"""Uch. Been tending your hounds? You smell like wet dog.""",Complete The Silver Hand
+"""With respect, Companion, I ask that you muzzle that dog of yours. The howling coming from Jorrvaskr has gotten out of hand.""",Complete The Silver Hand
+"""If it isn't the slayer of the Glenmoril witches. How can I assist you, Companion?""",Complete Blood's Honor
+"""Heard about what you did. Killing those foul witches. Well done, Companion.""",Complete Blood's Honor
+"""Kodlak killed, Jorrvaskr attacked. How could this happen, within the walls of Whiterun?""",Complete Blood's Honor
+"""Who would dare attack the leader of the Companions? In his own hall? There'll be blood for this, I know it.""",Complete Blood's Honor
+"""I heard about the attack on Jorrvaskr, and the killing of your honored leader. You have my sympathies, Companion.""",Complete Blood's Honor
+"""Kodlak White-Mane is in a better place now. For is there any place better than Sovngarde?""",Complete Glory of the Dead
+"""Kodlak White-Mane has been laid to rest, I know. May his soul live forever in the halls of Sovngarde.""",Complete Glory of the Dead
+"""You... you're the Harbinger. Of the Companions. It is my honor to stand before you.""",Complete Glory of the Dead
+"""It's no secret the Aretino boy is doing some ritual, trying to call the Dark Brotherhood. But who's going to stop him? Me? I'll have no part of that.""","Have not completed Innocence Lost
+
+Only Windhelm Guards have this dialogue."
+"""That old woman who runs the orphanage has been murdered. Say, didn't I see you coming out of there...?""","Complete Innocence Lost
+
+Only Riften Guards have this dialogue."
+"""You ask me? The brats in the orphanage are better off, now that Grelod is dead.""","Complete Innocence Lost
+
+Only Riften Guards have this dialogue."
+"""Been a murder, over in Riften. Some old lady who runs an orphanage. Those poor children must be heartbroken.""","Complete Innocence Lost
+
+Not a Riften guard"
+"""Psst. Hey, I know who you are. Hail Sithis!""",Complete With Friends Like These...
+"""It ain't true what they say about you and... and the Dark Brotherhood? Is it?""",Complete With Friends Like These...
+"""Now, I know who you are. And... and I know your business... Just, please... These are good folk we got here. Mostly...""",Complete With Friends Like These...
+"""Hey! You're the one who killed Alain Dufont, up in Raldbthar. Oh yeah, word about that got around. Man was a piece of bandit trash, is what I hear.""",Complete Mourning Never Comes
+"""I heard you were at the wedding of the Emperor's cousin in Solitude. Gods, that must've been horrible.""",Complete Bound Until Death
+"""The Emperor's cousin, killed. Right here in Solitude. I feel nothing but shame...""",Complete Bound Until Death
+"""The cousin of the Emperor was murdered! In Solitude, at her own damn wedding. Not a chance we would have let that happen here.""",Complete Bound Until Death
+"""Look, that Vici woman had a bodyguard. I know it's terrible she got murdered at her own wedding, but the city guard is hardly to blame...""","Complete Bound Until Death
+
+Only Solitude Guards have this dialogue."
+"""You didn't hear this from me, but we've uncovered a plot to kill the Emperor! It gets better. The ringleader? One of the Emperor's own elite guard...""",Complete Breaching Security
+"""Seems the Emperor's coming to Skyrim... and one of his protectors was going to have him assassinated. Can't trust anyone these days.""",Complete Breaching Security
+"""There was some ruckus over by that weird black door. You weren't involved in that craziness, were you?""","Complete The Cure for Madness
+
+Only Dawnstar Guards have this dialogue."
+"""I heard to Gourmet is hiding out somewhere in Skyrim. You know, fella who wrote that cookbook.""",Started Recipe for Disaster or Complete Destroy the Dark Brotherhood!
+"""We just received word that somebody tried to kill the Emperor! Turned out to just be his double, but can you imagine if he had succeeded?""",Complete To Kill an Empire
+"""So the Emperor had a decoy. Poor bastard got murdered, too. But then, I guess that was his job...""",Complete To Kill an Empire
+"""Wait, I know you. You went into the Emperor's Tower, just before... before his decoy was murdered...""","Complete To Kill an Empire
+
+Only Solitude Guards have this dialogue."
+"""They're saying the Dark Brotherhood has been destroyed. Wiped off the face of Tamriel. But that's not entirely true... is it?""",Complete Death Incarnate
+"""I know who you are, assassin. I guess the rumors about your kind's ""extinction"" have been... exaggerated.""",Complete Death Incarnate
+"""The guards have been saying things about you... That you're the one that... Well... They say the Dark Brotherhood... Well. Never mind. Sir/Ma'am.""",Complete Hail Sithis!
+"""The Emperor of Skyrim. Dead. These are dark times my friend - dark times indeed...""",Complete Hail Sithis!
+"""You hear the news? The Emperor has been murdered! Right here, in Skyrim. By the gods, if the Dark Brotherhood can do that, nobody's safe...""",Complete Hail Sithis!
+"""By the gods. The Emperor's been murdered. On his own ship... moored in the inlet. It was... the Dark Brotherhood. There was nothing we could do...""",Complete Hail Sithis!
+"""There are stories about you, and dark tidings in Dawnstar...""",Complete Hail Sithis!
+"""Been lots of people coming and going through that creepy black door. And noises... I'd say it sounds like construction, but that's crazy. Right?""","Complete Where You Hang Your Enemy's Head...
+
+Only Dawnstar Guards have this dialogue."
+"""There are some that say the Dark Brotherhood is back, and stronger than ever. That they've made Dawnstar their home. Tell me - am I wrong?""",Complete Where You Hang Your Enemy's Head...
+"""You! You're the one who wiped out the Dark Brotherhood! All the guards are talking about it... You're a hero to us all!""",Complete Destroy the Dark Brotherhood!
+"""You're the one all the guards are talking about. You went into that Sanctuary... wiped out the Dark Brotherhood! Friend, I owe you a drink.""",Complete Destroy the Dark Brotherhood!
+"""You know, I could have gone into that Sanctuary, killed all those Dark Brotherhood types. But I was... sick that day.""",Complete Destroy the Dark Brotherhood!
+"""Try to hide it all you want. I know you're in the Thieves Guild... and so do the other guards.""","In Thieves Guild, wearing Thieves Guild Armor or Guild Master's Armor"
+"""The Thieves Guild used to run this city. Now they're nothing but braggarts and bullies, rotting to death down in their Ratway...""",Have not completed Loud and Clear
+"""Welcome to Riften, home of the Thieves Guild. Or so they'd have you believe. It's all lies. They're just thugs... vermin, creeping around the Ratway.""",Have not completed Loud and Clear
+"""Seeing as how Riften is home to the Thieves Guild, maybe we can work something out if you get into trouble with the law. For the right price.""","Complete Loud and Clear
+
+Only Riften Guards have this dialogue"
+"""Ain't no doubt about it. The Thieves Guild is back, and they've got Riften in their grip.""",Complete Loud and Clear
+"""You know, the law here in Solitude can be a bit... ""flexible."" So long as you've got the gold. That's the way the Thieves Guild likes it.""","Complete The Dainty Sload
+
+Only Solitude Guards have this dialogue."
+"""A change has swept into Solitude, like a breeze off the ocean - the Thieves Guild has come...""",Complete The Dainty Sload
+"""We may guard Whiterun, but the Thieves Guild guards us. If you know what I mean.""","Complete Imitation Amnesty
+
+Only Whiterun Guards have this dialogue."
+"""The city's changed, friend. The Thieves Guild is on the rise... and they've got a firm foothold here in Whiterun.""","Complete Imitation Amnesty
+
+Only Whiterun Guards have this dialogue."
+"""Shirking the law in Windhelm ain't what it use to be. Not with the Thieves Guild running things...""","Complete Summerset Shadows
+
+Only Windhelm Guards have this dialogue."
+"""Maybe you haven't heard, but the Thieves Guild is back. Windhelm is their city now, if you catch my meaning...""",Complete Summerset Shadows
+"""Break the law here in Markarth, and maybe we can work something out. Courtesy of the Thieves Guild.""","Complete Silver Lining
+
+Only Markarth Guards have this dialogue."
+"""Markarth's a different place, now. Do business here, and you do business with the Thieves Guild.""","Complete Silver Lining
+
+Only Markarth Guards have this dialogue."
+"""I know you had some part in Sinding's escape. Don't deny it...""","Start Ill Met By Moonlight
+
+Only Falkreath Guards have this dialogue."
+"""You... you were talking to that murderous savage. And then he escaped. What are you hiding?""","Start Ill Met By Moonlight
+
+Only Falkreath Guards have this dialogue."
+"""Thanks for clearing out that Vampire nest. You saved Morthal.""","Complete Laid to Rest
+
+Only Morthal Guards have this dialogue."
+"""The Gildergreen will bloom again. All thanks to you."" or
+""The Gildergreen blooms again. All thanks to you.""","Complete The Blessings of Nature
+
+Only Whiterun Guards have this dialogue.
+Whether you get the first or second line depends upon how you complete the quest."
+"""By Ysmir, you've helped save the Gildergreen. Words can't express what that means to this city.""","Complete The Blessings of Nature
+
+Only Whiterun Guards have this dialogue."
+"""That sapling you recovered means the Gildergreen will live again. Your deed honors the people of Whiterun.""","Complete The Blessings of Nature by returning a sapling.
+
+Only Whiterun Guards have this dialogue."
+"""You did this city a great service by catching that killer. Well done.""","Complete Blood on the Ice
+
+Only Windhelm Guards have this dialogue."
+"""I was this close to catching that killer. I swear it.""","Complete Blood on the Ice
+
+Only Windhelm Guards have this dialogue."
+"""Wonder what kinds of things they've got the Dibella [sic] doing, over in the temple. Mostly praying, I reckon...""","Complete The Heart of Dibella
+
+Only Markarth Guards have this dialogue."
+"""You've actually done it. You've found the Sybil of Dibella. You have done Markarth a tremendous service.""","Complete The Heart of Dibella
+
+Only Markarth Guards have this dialogue."
+"""As if Skyrim didn't have enough outsiders. Now we've got mercenaries from Hammerfell struttin' about...""","Complete In My Time Of Need
+
+Only Whiterun Guards have this dialogue."
+"""You see those warriors from Hammerfell? They've got curved swords. Curved. Swords.""","Complete In My Time Of Need
+
+Only Whiterun Guards have this dialogue."
+"""Wonder what it's like for those Thalmor, now that they've been taken down a notch...""",Complete Missing In Action
+"""From what I hear, you're the one that gave the Thalmor a black eye. Sure know how to pick your enemies, don't you?""",Complete Missing In Action
+"""Thanks again for helping reopen the East Empire Company. Gonna have them import me some of that aged Breton cheese.""",Complete Rise in the East
+"""I hear the East Empire Company has reopened, thanks in no small part to you. Well done. All of Skyrim benefits from their trade.""",Complete Rise in the East
+"""You've come to Dawnstar at a strange time, friend. Seems everyone in the town is having nightmares...""","Have not yet completed Waking Nightmare
+
+Only Dawnstar Guards have this dialogue."
+"""No more nightmares. Thank the gods for that.""","Complete Waking Nightmare
+
+Only Dawnstar Guards have this dialogue."
+"""The damned nightmares have finally stopped. Don't suppose you'd know anything about that?""","Complete Waking Nightmare
+
+Only Dawnstar Guards have this dialogue."
+"""So Madanach was behind those murders. Gods help us.""","Complete No One Escapes Cidhna Mine
+
+Completed by helping Madanach escape.
+Only Markarth Guards have this dialogue."
+"""Gods damn those Forsworn. So many dead...""","Complete No One Escapes Cidhna Mine
+
+Completed by helping Madanach escape.
+Only Markarth Guards have this dialogue."
+"""You put those Forsworn down. Good job.""","Complete No One Escapes Cidhna Mine
+
+Completed by killing Madanach.
+Only Markarth Guards have this dialogue."
+"""Your name's been cleared... by Thonar Silver-Blood. Consider yourself lucky.""","Complete No One Escapes Cidhna Mine
+
+Completed by killing Madanach.
+Only Markarth Guards have this dialogue."
+"""With Nurelion gone, I suppose Quintus has taken over business in the White Phial.""",Complete The White Phial
+"""Good thing you did for Nurelion, returning that phial for him before he died. Man was obsessed.""","Complete Repairing the Phial
+
+Only Windhelm Guards have this dialogue."
+"""First Torygg and now Elisif. Damn those Stormcloaks. Let's hope that Erikur fares better than they did.""","Complete Boethiah's Bidding or otherwise kill Jarl Elisif
+
+Imperial Guard"
+"""We'll protect Erikur as best we're able, but I fear the throne of Solitude is cursed.""","Complete Boethiah's Bidding
+
+Imperial Guard"
+"""Filthy she-hound Elisif got what she deserved. Let her serve as 'High Queen' of Oblivion, for all I care.""","Complete Boethiah's Bidding
+
+Stormcloak Guard"
+"""It is whispered that one of the Daedric Princes himself is behind the murder of Elisif. It would seem even the nobility of Oblivion favors our cause.""","Complete Boethiah's Bidding
+
+Stormcloak Guard"
+"""Don't like those eyes you got. They've got a bad hunger to them.""",Become a Vampire
+"""Heard they're reforming the Dawnguard. Vampire hunters or something, in the old fort near Riften. Might consider joining up myself.""",Have not completed Awakening
+"""They say that vampires attacked the Hall of the Vigilant. Burned it to the ground! Never heard of vampires doing anything like that before.""","Have not completed Bloodline
+
+Only Dawnstar Guards have this dialogue."
+"""These vampires are becoming a real menace.""","Greeting after a vampire attack
+
+Random line is chosen."
+"""Where're these vampires coming from? We need to wipe them out before things get worse."""
+"""Dragons breathing fire in the sky. Vampires brazenly attacking people on the street. It's the end of the world I tell you."""
+"""They say if a vampire so much as scratches you, you'll turn into one. That better not be true."""
+"""We need to do something about these vampire attacks."""
+"""Some advice, friend. That armor won't offer much protection in a real fight.""","Hide Armor"
