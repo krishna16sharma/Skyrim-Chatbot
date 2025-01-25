@@ -11,7 +11,7 @@ The guard dialogues were scrapped from The Unoffical Elder Scroll Pages and a [c
 
 This, in turn, helped me manually create the [intents.json](intents.json) file.
 
-Using Bag Of Words Representation, we can preprocess the JSON and create the afile which helps to train our model.This pickle file may be used directly later for training or for prediction.
+Using Bag Of Words Representation, we can preprocess the JSON and create the file which helps to train our model.This pickle file may be used directly later for training or for prediction.
 
 ## How to run
 1.  Clone the repo
